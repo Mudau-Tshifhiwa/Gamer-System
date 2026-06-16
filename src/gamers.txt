@@ -1,0 +1,12 @@
+Amateur@071206@Tom Sawyer@2
+Amateur@971116@Frank N Furter@3
+Amateur@991211@Rick Blaine@3
+Amateur@090725@John Locke@1
+Amateur@040412@Dorian Gray@2
+Amateur@130517@Maxwell Klinger@1
+Professional@890725@James Ford@12@56
+Professional@010826@Jonathan Harker@8@34
+Professional@960929@Hawkey Pierce@13@65
+Professional@980815@Mina Harker@11@45
+Professional@910428@Ilsa Lund@18@75
+Professional@040515@Allan Quatermain@4@25
