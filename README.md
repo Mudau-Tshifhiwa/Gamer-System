@@ -1,4 +1,4 @@
-#SANCGA(The south African Nationl Computer Gamers Association) System
+# SANCGA(The south African Nationl Computer Gamers Association) System
 
 SANCGA (The South African National Computer
 Gamers Association) is hosting a gaming competition
